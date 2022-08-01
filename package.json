@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emotion/cache": "^11.10.0",
+    "@emotion/react": "^11.10.0",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
